@@ -35,7 +35,7 @@ export default function Home() {
           </p>
           <div className="flex flex-wrap gap-4">
             <a 
-              href="/Omkar-Jore-CV.pdf" 
+              href="/My-Portfolio/Omkar-Jore-CV.pdf" 
               download 
               className="px-8 py-4 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 hover:shadow-lg transition-all focus:ring-4 focus:ring-blue-200"
             >
